@@ -1,4 +1,4 @@
-# CI_CD Project
+# EC2 Scanner Project
 
 The following project is part of "John Bryce DeveOps seminar" CI/CD workshop - it's designed for filtering running EC2 instances in a current environment in a configurable interval of time (default time = 5 minutes).
 
